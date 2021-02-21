@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7063d2f0-f87c-4c67-b186-3006ca4972ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1onWTHUOC5dyqNx3E3WLziVTIdi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Gradle.TestTanos.test_line_work">
+    <configuration name="TestTanos.test_line_work" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TestTanos.test_line_work&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTanos.test_many_random" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TestTanos.test_many_random&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTanos.test_many_random_break" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TestTanos.test_many_random_break&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTanos.test_norme" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TestTanos.test_norme&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTanos.test_not_norme" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TestTanos.test_not_norme&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TestTanos.test_line_work" />
+        <item itemvalue="Gradle.TestTanos.test_many_random_break" />
+        <item itemvalue="Gradle.TestTanos.test_many_random" />
+        <item itemvalue="Gradle.TestTanos.test_not_norme" />
+        <item itemvalue="Gradle.TestTanos.test_norme" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7063d2f0-f87c-4c67-b186-3006ca4972ca" name="Default Changelist" comment="" />
+      <created>1613922840580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613922840580</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Project_Structure" timestamp="1613925568752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1613925568752" />
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1613923914823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613923914823" />
+    <state width="1286" height="205" key="GridCell.Tab.0.bottom" timestamp="1613934333869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="205" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613934333869" />
+    <state width="1286" height="205" key="GridCell.Tab.0.center" timestamp="1613934333868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="205" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1613934333868" />
+    <state width="1286" height="205" key="GridCell.Tab.0.left" timestamp="1613934333868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="205" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1613934333868" />
+    <state width="1286" height="205" key="GridCell.Tab.0.right" timestamp="1613934333869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="205" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1613934333869" />
+    <state width="1286" height="205" key="GridCell.Tab.1.bottom" timestamp="1613934333870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="205" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613934333870" />
+    <state width="1286" height="205" key="GridCell.Tab.1.center" timestamp="1613934333869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="205" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1613934333869" />
+    <state width="1286" height="205" key="GridCell.Tab.1.left" timestamp="1613934333869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="205" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1613934333869" />
+    <state width="1286" height="205" key="GridCell.Tab.1.right" timestamp="1613934333869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="205" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1613934333869" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1613928012054">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1613928012054" />
+  </component>
+</project>

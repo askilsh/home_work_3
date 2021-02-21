@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+group 'ru.fintech.qa.auto'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation group: 'org.junit.jupiter', name: 'junit-jupiter', version: '5.7.0'
+}
+
+test{
+    useJUnitPlatform()
+}
+
