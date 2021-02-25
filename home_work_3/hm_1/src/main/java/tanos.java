@@ -1,4 +1,5 @@
 import java.util.Arrays;
+
 public class tanos{
 
 	public static int[] ft_sort(int[] mass, int min, int max) // Сортируем. Бегаем по массиву, 

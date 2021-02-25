@@ -94,7 +94,7 @@ public class TestTanos
         int max = (mass.length - 1);
         mass = tanos.ft_sort(mass, min, max);
         mass = tanos.ft_min_max(mass, min, max);
-        //Assertions.assertArrayEquals(mass_exp, mass);
+        Assertions.assertArrayEquals(mass_exp, mass);
     }
 
     @Test
@@ -113,30 +113,6 @@ public class TestTanos
         while(z < 4)
         {
             mass_exp[z] = z + 1;
-            z++;
-        }
-        int min = 0;
-        int max = (mass.length - 1);
-        mass = tanos.ft_sort(mass, min, max);
-        mass = tanos.ft_min_max(mass, min, max);
-        Assertions.assertArrayEquals(mass_exp, mass);
-    }
-
-    @Test
-    public void test_line_work()
-    {
-        int mass_exp[] = new int[4]; // 892, 891, 890, 889 Неккоректный вывод
-        int i = 0;                   // 889, 890, 892, 891 -  891 не на своем месте
-        int z = 0;
-        while(i < 4)
-        {
-            mass[i] = 892 - i;
-            System.out.println(mass[i]);
-            i++;
-        }
-        while(z < 4)
-        {
-            mass_exp[z] = 888 + z + 1;
             z++;
         }
         int min = 0;
